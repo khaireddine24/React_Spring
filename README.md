@@ -2,7 +2,7 @@
 
 <p>This project is a full-stack web application that provides an admin panel for managing users, categories, and products. The application is designed to be efficient and user-friendly, combining a sleek frontend with a robust backend.</p>
 <br/>
-<img src='https://github.com/user-attachments/assets/30757ea8-d469-4cf5-9ba3-d16c247675e2' width='60%' height='30%' />
+<img src='https://github.com/user-attachments/assets/30757ea8-d469-4cf5-9ba3-d16c247675e2' width='60%' height='30%' /><br/>
 
 
 <b>Frontend:</b><br/>
@@ -20,13 +20,13 @@ MySQL: The relational database used for storing users, categories, and products,
 <b>Features:</b><br/>
 -Admin can create, update, and delete users.<br/>
 <img src='https://github.com/user-attachments/assets/16481a97-6ec9-4d4e-954c-7f51b83e04be' width='60%' height='30%' /><br/>
--Admin can manage product categories, adding and organizing them as needed.<br/>
+-Admin can manage product categories, adding and organizing them as needed.<br/><br/>
 <img src='https://github.com/user-attachments/assets/46aff7d5-777d-4d6e-959d-f281250f57b4' width='60%' height='30%' />
 <img src='https://github.com/user-attachments/assets/1ec2428b-56f3-4861-b116-94ecde06607b' width='60%' height='30%' />
 
--Full product management with fields like name, price, and category.<br/>
-<img src='https://github.com/user-attachments/assets/dc879e12-818f-42a6-bb6f-bbf82f65d965' width='60%' height='30%' />
-<img src='https://github.com/user-attachments/assets/5faf9aab-6f3a-49c9-b923-ca6856f58bb1' width='60%' height='30%' />
+-Full product management with fields like name, price, and category.<br/><br/>
+<img src='https://github.com/user-attachments/assets/dc879e12-818f-42a6-bb6f-bbf82f65d965' width='60%' height='30%' /><br/>
+<img src='https://github.com/user-attachments/assets/5faf9aab-6f3a-49c9-b923-ca6856f58bb1' width='60%' height='30%' /><br/>
 <img src='https://github.com/user-attachments/assets/d36cbf59-40a4-4443-8ef3-dc2ee34d5e50' width='60%' height='30%' />
 
 
