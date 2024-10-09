@@ -1,6 +1,9 @@
 <h1>Admin Panel Project</h1>
 
 <p>This project is a full-stack web application that provides an admin panel for managing users, categories, and products. The application is designed to be efficient and user-friendly, combining a sleek frontend with a robust backend.</p>
+<br/>
+<img src='https://github.com/user-attachments/assets/30757ea8-d469-4cf5-9ba3-d16c247675e2' width='20%' height='20%' />
+
 
 <b>Frontend:</b><br/>
 -React+Vite: Handles the user interface and client-side logic. The app is built with reusable components and state management to create an interactive and dynamic experience.
@@ -15,7 +18,9 @@ and complex animations with minimal code.
 MySQL: The relational database used for storing users, categories, and products, ensuring data persistence and scalability.
 
 <b>Features:</b><br/>
--Admin can create, update, and delete users.
+-Admin can create, update, and delete users.<br/>
+<img src='https://github.com/user-attachments/assets/16481a97-6ec9-4d4e-954c-7f51b83e04be' width='20%' height='20%' />
+
 -Admin can manage product categories, adding and organizing them as needed.
 -Full product management with fields like name, price, and category.
 -User-friendly interface with real-time updates and animations.
