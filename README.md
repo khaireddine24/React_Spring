@@ -24,5 +24,10 @@ MySQL: The relational database used for storing users, categories, and products,
 <img src='https://github.com/user-attachments/assets/46aff7d5-777d-4d6e-959d-f281250f57b4' width='60%' height='30%' />
 <img src='https://github.com/user-attachments/assets/1ec2428b-56f3-4861-b116-94ecde06607b' width='60%' height='30%' />
 
--Full product management with fields like name, price, and category.
+-Full product management with fields like name, price, and category.<br/>
+<img src='https://github.com/user-attachments/assets/dc879e12-818f-42a6-bb6f-bbf82f65d965' width='60%' height='30%' />
+<img src='https://github.com/user-attachments/assets/5faf9aab-6f3a-49c9-b923-ca6856f58bb1' width='60%' height='30%' />
+<img src='https://github.com/user-attachments/assets/d36cbf59-40a4-4443-8ef3-dc2ee34d5e50' width='60%' height='30%' />
+
+
 -User-friendly interface with real-time updates and animations.
