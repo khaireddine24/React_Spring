@@ -19,8 +19,10 @@ MySQL: The relational database used for storing users, categories, and products,
 
 <b>Features:</b><br/>
 -Admin can create, update, and delete users.<br/>
-<img src='https://github.com/user-attachments/assets/16481a97-6ec9-4d4e-954c-7f51b83e04be' width='20%' height='20%' />
-
+<img src='https://github.com/user-attachments/assets/16481a97-6ec9-4d4e-954c-7f51b83e04be' width='60%' height='30%' />
 -Admin can manage product categories, adding and organizing them as needed.
+<img src='https://github.com/user-attachments/assets/46aff7d5-777d-4d6e-959d-f281250f57b4' width='60%' height='30%' />
+<img src='https://github.com/user-attachments/assets/1ec2428b-56f3-4861-b116-94ecde06607b' width='60%' height='30%' />
+
 -Full product management with fields like name, price, and category.
 -User-friendly interface with real-time updates and animations.
