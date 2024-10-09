@@ -3,9 +3,12 @@
 <p>This project is a full-stack web application that provides an admin panel for managing users, categories, and products. The application is designed to be efficient and user-friendly, combining a sleek frontend with a robust backend.</p>
 
 <b>Frontend:</b><br/>
--React: Handles the user interface and client-side logic. The app is built with reusable components and state management to create an interactive and dynamic experience.
-Framer Motion: Used for smooth animations and transitions, enhancing the visual experience of the admin panel.
-Tailwind CSS: Provides responsive, utility-first styling, making the app look clean and modern across all devices.
+-React+Vite: Handles the user interface and client-side logic. The app is built with reusable components and state management to create an interactive and dynamic experience.
+Framer Motion: Used for smooth animations and transitions, enhancing the visual experience of the admin panel.<br/>
+-Tailwind CSS: Provides responsive, utility-first styling, making the app look clean and modern across all devices.<br/>
+-Framer Motion is a popular React library for creating smooth animations and interactions in web applications. It provides an easy-to-use API for animating components, managing transitions, gestures<br/>
+and complex animations with minimal code.
+
 
 <b>Backend:</b><br/>
 -Spring Boot: A powerful framework for building the server-side logic. This handles the API requests, user authentication, and manages the database interactions.
