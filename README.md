@@ -6,7 +6,7 @@
 -React+Vite: Handles the user interface and client-side logic. The app is built with reusable components and state management to create an interactive and dynamic experience.
 Framer Motion: Used for smooth animations and transitions, enhancing the visual experience of the admin panel.<br/>
 -Tailwind CSS: Provides responsive, utility-first styling, making the app look clean and modern across all devices.<br/>
--Framer Motion is a popular React library for creating smooth animations and interactions in web applications. It provides an easy-to-use API for animating components, managing transitions, gestures<br/>
+-Framer Motion is a popular React library for creating smooth animations and interactions in web applications. It provides an easy-to-use API for animating components, managing transitions, gestures 
 and complex animations with minimal code.
 
 
