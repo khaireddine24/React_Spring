@@ -2,7 +2,7 @@
 
 <p>This project is a full-stack web application that provides an admin panel for managing users, categories, and products. The application is designed to be efficient and user-friendly, combining a sleek frontend with a robust backend.</p>
 <br/>
-<img src='https://github.com/user-attachments/assets/30757ea8-d469-4cf5-9ba3-d16c247675e2' width='40%' height='20%' />
+<img src='https://github.com/user-attachments/assets/30757ea8-d469-4cf5-9ba3-d16c247675e2' width='60%' height='30%' />
 
 
 <b>Frontend:</b><br/>
